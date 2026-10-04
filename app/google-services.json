@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657310122636",
+    "project_id": "hostelhub-9d45f",
+    "storage_bucket": "hostelhub-9d45f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657310122636:android:e2d5cf382f063dc77e71a9",
+        "android_client_info": {
+          "package_name": "com.example.hostelkeep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3LPiRX3ayx_7-EmOmDopJeWotoNkL38Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

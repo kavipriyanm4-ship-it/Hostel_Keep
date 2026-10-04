@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "hostelhub-9d45f",
+    "firebase deploy --only firestore": "hostelhub-9d45f"
+  },
+  "targets": {},
+  "etags": {}
+}
